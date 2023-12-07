@@ -1,0 +1,68 @@
+ * {
+     box-sizing: border-box;
+     font-family: Poppins, sans-serif;
+     margin: 0px;
+     padding: 0px;
+ }
+
+ body {
+     height: 100vh;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     background-color: rgb(64, 112, 244);
+ }
+
+ /* Container styles */
+ .container {
+     position: relative;
+     max-width: 430px;
+     width: 100%;
+     box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 10px;
+     border-radius: 10px;
+     overflow: hidden;
+     margin: 0px 20px;
+ }
+
+ h1 {
+     text-align: center;
+
+ }
+
+ /* Form styles */
+ form {
+     display: flex;
+     flex-direction: column;
+ }
+
+ input[type="text"],
+ input[type="email"],
+ input[type="password"],
+ button[type="submit"],
+ input[type="tel"] ,
+  input[type="Number"]{
+     width: 100%;
+     margin-bottom: 15px;
+     padding: 10px;
+     border-radius: 5px;
+     border: 1px solid #ccc;
+ }
+
+ button[type="submit"] {
+     background-color: #007bff;
+     color: #fff;
+     cursor: pointer;
+ }
+
+ button[type="submit"]:hover {
+     background-color: #0056b3;
+ }
+
+ select {
+     width: 100%;
+     margin-bottom: 15px;
+     padding: 10px;
+     border-radius: 5px;
+     border: 1px solid #ccc;
+ }

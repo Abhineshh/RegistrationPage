@@ -1,0 +1,3 @@
+{"name":"asdf","phoneno":"1212121212","email":"abhineshwill@gmail.com","age":"12","qualification":"tenth","adhaar":"121212121212","gender":"male"}
+{"name":"abhinesh","phoneno":"1212121212","email":"abhineshwill@gmail.com","age":"12","qualification":"Bachelor","adhaar":"121212121212","gender":"male"}
+{"name":"abhineshwill","phoneno":"1212121212","email":"abhinesh.on@gmail.com","age":"12","qualification":"twelth","adhaar":"121212121212","gender":"female"}
