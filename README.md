@@ -3,7 +3,7 @@
 A practice-website which is registration page to register for a ship voyage built with expressjs
 
 #viewing the project
-- clone or download the project in your local machine
+- clone or download the project in your local machine 
   
 - Install the packages -> <code> $npm i</code>
 
